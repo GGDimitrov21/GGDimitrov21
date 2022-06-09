@@ -1,9 +1,5 @@
-### Hi there 👋
+<h1>Hi there, I'm Gabriel, but you call me Gabe 👋</h1>
 
-<!--
-**GGDimitrov21/GGDimitrov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div id="header" align="center">
-  <img src="https://images.app.goo.gl/C1qJbTJDzLdH4oXXA" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100"/>
 </div>
