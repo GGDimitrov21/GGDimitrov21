@@ -11,7 +11,7 @@
 - ⚡ Fun fact: A fun fact is that the first fun fact was not actualy fun
 
   <div id="header" align="center">
-    <img src="README_GitHub_gif.gif">
+    <img src="https://user-images.githubusercontent.com/105590063/173000008-d534142c-f643-40b6-9506-c2db59af60b8.gif">
   </div>
   
   <h1>Languages and Tools:</h1>
