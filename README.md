@@ -10,10 +10,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A fun fact is that the first fun fact was not actualy fun
 
-  <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/105590063/173000008-d534142c-f643-40b6-9506-c2db59af60b8.gif">
+  <div id="gif" align="right">
+    <img src="https://user-images.githubusercontent.com/105590063/173111087-050858df-12e1-499d-80f1-40b103ef957d.gif">
   </div>
-  
+
   <h1>Languages and Tools:</h1>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" height="50" weight="50"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="50" weight="50"> </a>
