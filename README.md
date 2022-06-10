@@ -11,15 +11,15 @@
 - ⚡ Fun fact: A fun fact is that the first fun fact was not actualy fun
 
   <div id="header" align="center">
-    <img src="GitHub_gif_6.gif">
+    <img src="README_GitHub_gif.gif">
   </div>
   
   <h1>Languages and Tools:</h1>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" height="50" weight="50">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="50" weight="50">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="50" weight="50">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="50" weight="50">
-       <img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="50" weight="50">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="50" weight="50">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" height="50" weight="50">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" height="50" weight="50"> </a>
+       <a href="https://en.wikipedia.org/wiki/HTML5" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="50" weight="50"> </a>
+       <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/Git" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/GitHub" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/Blender_(software)" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" height="50" weight="50">
