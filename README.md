@@ -36,7 +36,7 @@
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
 - 🌱 I’m currently learning C++, HTML, CSS at school and blender on my own
 - 💬 I am very talkative so don't get angry when I talk too much while chatting :)
-- 👯 My hobbies are skating
+- 👯 My mental stabilizer is my boi<a href="mailto:DAYusein21@codingburgas.bg" > Denis</a>
 - 📫 How to reach me: <a href="mailto:GGDimitrov21@codingburgas.bg"> My Work Email </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional game designer and developer
