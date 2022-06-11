@@ -9,6 +9,7 @@
 - 📫 You can contact me here: GGDimitrov21@codingburgas.bg
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A fun fact is that the first fun fact was not actualy fun
+- <img src="https://user-images.githubusercontent.com/105590063/173111087-050858df-12e1-499d-80f1-40b103ef957d.gif">
 
   <!--<div id="gif" align="right">
     <img src="https://user-images.githubusercontent.com/105590063/173111087-050858df-12e1-499d-80f1-40b103ef957d.gif">
