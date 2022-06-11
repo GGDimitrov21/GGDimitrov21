@@ -37,7 +37,7 @@
 - 🌱 I’m currently learning C++, HTML, CSS at school and blender on my own
 - 💬 I am very talkative so don't get angry when I talk too much while chatting :)
 - 👯 My hobbies are skating
-- 📫 How to reach me: <a href="mailto:BADimov21@codingburgas.bg"> My Work Email </a>
+- 📫 How to reach me: <a href="mailto:GGDimitrov21@codingburgas.bg"> My Work Email </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional game designer and developer
 - 😀 Fun Fact: A fun fact is that the first fun fact was not actually fun(not kidding...)PS: Actually when the first fun fact was said, the emotion happiness wasn't already discovered so there was no fun and it was not funny. ✪ ω ✪
