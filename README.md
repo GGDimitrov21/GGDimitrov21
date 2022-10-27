@@ -44,8 +44,8 @@
 
 <details>
        <summary><h1>💼Professional Certificates:</h1></summary>
-       <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
-  <a href="![image](https://user-images.githubusercontent.com/105590063/198206898-f7ca8591-1b9f-4efb-b917-3d0ec088bf46.png)" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
+       <a href="[https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063](https://www.credly.com/badges/89f3f9ec-fa69-4e8a-af83-8e707b75a544)" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
+  <a href="[![image](https://user-images.githubusercontent.com/105590063/198206898-f7ca8591-1b9f-4efb-b917-3d0ec088bf46.png)](https://www.credly.com/badges/5e5224a6-1703-4d1f-90da-cf544973ff27)" > <img src="![image](https://user-images.githubusercontent.com/105590063/198207220-53adf3b9-411b-4d2a-ba99-4e98d3b9cf6f.png)" height="200" weight="200"> </a>
 </details>
        
 <details>
